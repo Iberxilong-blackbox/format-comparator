@@ -1,0 +1,47 @@
+# Project specific files
+project_migration_plan.md
+open_source_checklist.md
+# Python virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# User-specific configuration
+# Users should create their own config.json based on config_example.json
+config.json
+
+# User-generated data files
+# These are created during runtime by the application
+user_files/templates_map.db
+user_files/commented_docs/
+# Consider if user-created templates in user_files/templates/ should be ignored.
+# If you provide default templates that should be versioned, adjust this or add specific !not_ignore_this.json rules.
+# For now, assuming all content in user_files/templates/ is user-generated after initial setup.
+user_files/templates/*
+!user_files/templates/default.json # Example: if you have a default template to keep
+
+# Log files
+llm_parsing_errors.log
+*.log
+
+# IDE/OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# pip-tools backup files
+*.bak
+
+# Other common Python ignores
+*.egg-info/
+dist/
+build/
+*.egg

@@ -1,0 +1,8 @@
+{
+  "pt_tolerance": 0.1,
+  "multiple_tolerance": 0.05,
+  "specific_tolerances": {
+    "段落.首行缩进.pt": 1.0,
+    "字体.大小.pt": 0.5
+  }
+}

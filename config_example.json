@@ -1,0 +1,10 @@
+{
+  "llm": {
+    "provider": "deepseek",
+    "api_key": "<YOUR_API_KEY_HERE>",
+    "base_url": "<YOUR_LLM_API_URL_HERE>",
+    "model": "deepseek-chat",
+    "max_tokens": 8192,
+    "response_format": {"type": "text"}
+  }
+}

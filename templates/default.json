@@ -1,0 +1,327 @@
+{
+  "toc_title_style": {
+    "font": {
+      "name_fareast": "黑体",
+      "name_ascii": "Times New Roman", 
+      "size": 18, 
+      "bold": false 
+    },
+    "paragraph": {
+      "alignment": "center", 
+      "space_before_pt": 9, 
+      "space_after_pt": 9, 
+      "line_spacing_rule": "single", 
+      "line_spacing": 1,
+      "left_indent_cm": 0,
+      "first_line_indent_cm": 0
+    }
+  },
+  "toc_styles": {
+    "黑箱TOC 1": {
+      "font": {
+        "name_fareast": "宋体",
+        "name_ascii": "Times New Roman",
+        "size": 12,
+        "bold": false
+      },
+      "paragraph": {
+        "alignment": "distribute",
+        "left_indent_cm": 0,
+        "first_line_indent_cm": 0,
+        "space_before_pt": 0,
+        "space_after_pt": 0,
+        "line_spacing_rule": "exactly",
+        "line_spacing": 22
+      },
+      "tabs": [
+        { "position_cm": 16, "align": "right", "leader": "dot" }
+      ]
+    },
+    "黑箱TOC 2": {
+      "font": {
+        "name_fareast": "宋体",
+        "name_ascii": "Times New Roman",
+        "size": 12,
+        "bold": false
+      },
+      "paragraph": {
+        "alignment": "distribute",
+        "left_indent_cm": 0,
+        "first_line_indent_cm": 0,
+        "space_before_pt": 0,
+        "space_after_pt": 0,
+        "line_spacing_rule": "exactly",
+        "line_spacing": 22
+      },
+      "tabs": [
+        { "position_cm": 16, "align": "right", "leader": "dot" }
+      ]
+    },
+    "黑箱TOC 3": {
+      "font": {
+        "name_fareast": "宋体",
+        "name_ascii": "Times New Roman",
+        "size": 12,
+        "bold": false
+      },
+      "paragraph": {
+        "alignment": "distribute",
+        "left_indent_cm": 0,
+        "first_line_indent_cm": 0,
+        "space_before_pt": 0,
+        "space_after_pt": 0,
+        "line_spacing_rule": "exactly",
+        "line_spacing": 22
+      },
+      "tabs": [
+        { "position_cm": 16, "align": "right", "leader": "dot" }
+      ]
+    }
+  },
+  "prefix":"黑箱",
+  "模板名称": "默认模板",
+  "numbering_template_path": "templates/default_numbering.docx",
+  "样式": {
+    "黑箱正文": {
+      "字体": {
+        "名称": "宋体",
+        "大小": 12,
+        "粗体": false,
+        "斜体": false,
+        "下划线": false,
+        "颜色": "#000000",
+        "中文字体": "宋体",
+        "西文字体": "Times New Roman"
+      },
+      "段落": {
+        "行间距": { "值": 1.0, "单位": "倍" },
+        "段前": { "值": 0, "单位": "行" },
+        "段后": { "值": 0, "单位": "行" },
+        "首行缩进": { "值": 2, "单位": "字符" }
+      },
+      "对齐": "justify",
+      "大纲级别": 9,
+      "样式类型": "paragraph"
+    },
+    "黑箱标题一": {
+      "字体": {
+        "名称": "黑体",
+        "大小": 16,
+        "粗体": false,
+        "斜体": false,
+        "下划线": false,
+        "颜色": "#000000",
+        "中文字体": "黑体",
+        "西文字体": "Times New Roman"
+      },
+      "段落": {
+        "行间距": { "值": 1.0, "单位": "倍" },
+        "段前": { "值": 0, "单位": "行" },
+        "段后": { "值": 0, "单位": "行" },
+        "首行缩进": { "值": 0, "单位": "字符" }
+      },
+      "对齐": "left",
+      "大纲级别": 1,
+      "样式类型": "paragraph"
+    },
+    "黑箱标题二": {
+      "字体": {
+        "名称": "黑体",
+        "大小": 15,
+        "粗体": false,
+        "斜体": false,
+        "下划线": false,
+        "颜色": "#000000",
+        "中文字体": "黑体",
+        "西文字体": "Times New Roman"
+      },
+      "段落": {
+        "行间距": { "值": 1.0, "单位": "倍" },
+        "段前": { "值": 0, "单位": "行" },
+        "段后": { "值": 0, "单位": "行" },
+        "首行缩进": { "值": 0, "单位": "字符" }
+      },
+      "对齐": "left",
+      "大纲级别": 2,
+      "样式类型": "paragraph"
+    },
+    "黑箱标题三": {
+      "字体": {
+        "名称": "黑体",
+        "大小": 14,
+        "粗体": false,
+        "斜体": false,
+        "下划线": false,
+        "颜色": "#000000",
+        "中文字体": "黑体",
+        "西文字体": "Times New Roman"
+      },
+      "段落": {
+        "行间距": { "值": 1.0, "单位": "倍" },
+        "段前": { "值": 0, "单位": "行" },
+        "段后": { "值": 0, "单位": "行" },
+        "首行缩进": { "值": 0, "单位": "字符" }
+      },
+      "对齐": "left",
+      "大纲级别": 3,
+      "样式类型": "paragraph"
+    },
+    "黑箱标题四": {
+      "字体": {
+        "名称": "宋体",
+        "大小": 12,
+        "粗体": false,
+        "斜体": false,
+        "下划线": false,
+        "颜色": "#000000",
+        "中文字体": "黑体",
+        "西文字体": "Times New Roman"
+      },
+      "段落": {
+        "行间距": { "值": 1.0, "单位": "倍" },
+        "段前": { "值": 0, "单位": "行" },
+        "段后": { "值": 0, "单位": "行" },
+        "首行缩进": { "值": 0, "单位": "字符" }
+      },
+      "对齐": "left",
+      "大纲级别": 4,
+      "样式类型": "paragraph"
+    },
+    "黑箱公式": {
+      "字体": {
+        "名称": "宋体",
+        "大小": 12,
+        "粗体": false,
+        "斜体": false,
+        "下划线": false,
+        "颜色": "#000000",
+        "中文字体": "宋体",
+        "西文字体": "Cambria Math"
+      },
+      "段落": {
+        "行间距": { "值": 1.0, "单位": "倍" },
+        "段前": { "值": 6, "单位": "磅" },
+        "段后": { "值": 6, "单位": "磅" },
+        "首行缩进": { "值": 2, "单位": "字符" }
+      },
+      "对齐": "left",
+      "大纲级别": 9,
+      "样式类型": "paragraph"
+    },
+    "黑箱引用": {
+      "字体": {
+        "名称": "宋体",
+        "大小": 12,
+        "粗体": false,
+        "斜体": true,
+        "下划线": false,
+        "颜色": "#333333",
+        "中文字体": "楷体",
+        "西文字体": "Times New Roman"
+      },
+      "段落": {
+        "行间距": { "值": 1.5, "单位": "倍" },
+        "段前": { "值": 12, "单位": "磅" },
+        "段后": { "值": 12, "单位": "磅" },
+        "首行缩进": { "值": 0, "单位": "字符" },
+        "左缩进": { "值": 2, "单位": "字符" }
+      },
+      "对齐": "justify",
+      "大纲级别": 9,
+      "样式类型": "paragraph"
+    },
+   "黑箱图题": {
+     "字体": {
+       "名称": "宋体",
+       "大小": 10.5,
+       "粗体": false,
+       "斜体": false,
+       "下划线": false,
+       "颜色": "#000000",
+       "中文字体": "宋体",
+       "西文字体": "Times New Roman"
+     },
+     "段落": {
+       "行间距": { "值": 1.0, "单位": "倍" },
+       "段前": { "值": 0, "单位": "行" },
+       "段后": { "值": 0, "单位": "行" },
+       "首行缩进": { "值": 0, "单位": "字符" }
+     },
+     "对齐": "center", 
+     "大纲级别": 9,
+     "样式类型": "paragraph"
+   },
+   "黑箱表题": {
+     "字体": {
+       "名称": "宋体",
+       "大小": 10.5,
+       "粗体": false,
+       "斜体": false,
+       "下划线": false,
+       "颜色": "#000000",
+       "中文字体": "宋体",
+       "西文字体": "Times New Roman"
+     },
+     "段落": {
+       "行间距": { "值": 1.0, "单位": "倍" },
+       "段前": { "值": 0, "单位": "行" },
+       "段后": { "值": 0, "单位": "行" },
+       "首行缩进": { "值": 0, "单位": "字符" }
+     },
+     "对齐": "center", 
+     "大纲级别": 9,
+     "样式类型": "paragraph"
+   }
+  },
+  "numbering_templates": {
+    "my_headings": {
+      "description": "用于标题的多级编号，格式如 1. / 1.1 / 1.1.1",
+      "levels": [
+        {
+          "level": 1,
+          "format_string": "%1",
+          "number_style": "arabic",
+          "start_at": 1,
+          "trailing_char": "space",
+          "font": null,
+          "indent": {
+            "left": "0 cm",
+            "hanging": "0.0 cm"
+          },
+          "alignment": "left"
+        },
+        {
+          "level": 2,
+          "format_string": "%1.%2",
+          "number_style": "arabic",
+          "start_at": 1,
+          "trailing_char": "space",
+          "font": null,
+          "indent": {
+            "left": "0 cm",
+            "hanging": "0.0 cm"
+          },
+          "alignment": "left"
+        },
+        {
+          "level": 3,
+          "format_string": "%1.%2.%3",
+          "number_style": "arabic",
+          "start_at": 1,
+          "trailing_char": "space",
+          "font": null,
+          "indent": {
+            "left": "0 cm",
+            "hanging": "0.0 cm"
+          },
+          "alignment": "left"
+        }
+      ]
+    }
+  },
+  "style_numbering_links": {
+    "黑箱标题一": "my_headings",
+    "黑箱标题二": "my_headings",
+    "黑箱标题三": "my_headings"
+  }
+}
